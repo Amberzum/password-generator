@@ -1,0 +1,59 @@
+#password-1 {
+  background: #263548;
+  border-radius: 8px;
+  height: 40px;
+  width: 150px;
+  margin: 15px;
+  padding: 2px;
+  color: #4adf86;
+  text-align: center;
+  line-height: 40px;
+}
+
+#password-2 {
+  background: #263548;
+  border-radius: 8px;
+  height: 40px;
+  width: 150px;
+  margin: 15px;
+  padding: 2px;
+  color: #4adf86;
+  text-align: center;
+  line-height: 40px;
+}
+
+#pword-container {
+  display: flex;
+  flex-direction: row;
+  margin-top: 50px;
+  border-top: 1px solid #6b7280;
+}
+
+body {
+  background-color: ECFDF5;
+  font-family: "Comfortaa", sans-serif;
+}
+
+h1 {
+  font-size: 40px;
+  color: #2f3e53;
+  margin-bottom: 0px;
+}
+
+#h1-span {
+  color: #10b981;
+}
+
+h3 {
+  color: #6b7280;
+  font-style: italic;
+}
+
+button {
+  font-family: "Comfortaa", sans-serif;
+  color: #ffff;
+  border-style: none;
+  border-radius: 5px;
+  background-color: #10b981;
+  height: 40px;
+}
